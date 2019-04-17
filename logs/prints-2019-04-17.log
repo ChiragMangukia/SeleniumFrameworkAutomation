@@ -1,0 +1,5 @@
+10:28:49.186 [main] INFO  com.chirag.seleniumframework.HomePageTest - Driver is initialized
+10:28:58.389 [main] INFO  com.chirag.seleniumframework.HomePageTest - Opened Home Page: https://www.lg.com/in
+10:47:37.623 [main] INFO  com.chirag.seleniumframework.HomePageTest - Driver is initialized
+10:47:43.156 [main] INFO  com.chirag.seleniumframework.HomePageTest - Opened Home Page: https://www.lg.com/in
+10:48:55.506 [main] INFO  com.chirag.seleniumframework.HomePageTest - Driver is initialized
