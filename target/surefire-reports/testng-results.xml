@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15712" started-at="2019-04-17T05:40:51Z" finished-at="2019-04-17T05:41:07Z">
+  <suite name="Suite" duration-ms="16940" started-at="2019-04-17T05:42:02Z" finished-at="2019-04-17T05:42:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="15712" started-at="2019-04-17T05:40:51Z" finished-at="2019-04-17T05:41:07Z">
+    <test name="Test" duration-ms="16940" started-at="2019-04-17T05:42:02Z" finished-at="2019-04-17T05:42:19Z">
       <class name="com.chirag.seleniumframework.HomePageTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.chirag.seleniumframework.HomePageTest@4ac3c60d]" name="initialize" is-config="true" duration-ms="5863" started-at="2019-04-17T05:40:51Z" finished-at="2019-04-17T05:40:57Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.chirag.seleniumframework.HomePageTest@76508ed1]" name="initialize" is-config="true" duration-ms="5299" started-at="2019-04-17T05:42:02Z" finished-at="2019-04-17T05:42:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="openHomePage()[pri:0, instance:com.chirag.seleniumframework.HomePageTest@4ac3c60d]" name="openHomePage" duration-ms="7453" started-at="2019-04-17T05:40:57Z" finished-at="2019-04-17T05:41:05Z">
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:com.chirag.seleniumframework.HomePageTest@76508ed1]" name="openHomePage" duration-ms="9251" started-at="2019-04-17T05:42:08Z" finished-at="2019-04-17T05:42:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openHomePage -->
-        <test-method status="PASS" signature="disposeDriver()[pri:0, instance:com.chirag.seleniumframework.HomePageTest@4ac3c60d]" name="disposeDriver" is-config="true" duration-ms="2387" started-at="2019-04-17T05:41:05Z" finished-at="2019-04-17T05:41:07Z">
+        <test-method status="PASS" signature="disposeDriver()[pri:0, instance:com.chirag.seleniumframework.HomePageTest@76508ed1]" name="disposeDriver" is-config="true" duration-ms="2367" started-at="2019-04-17T05:42:17Z" finished-at="2019-04-17T05:42:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- disposeDriver -->
